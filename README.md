@@ -1,6 +1,6 @@
 # TSWindow - Time Series Windowing
 
-![Python Magic Adventure Logo](https://github.com/Marlup/Time-series-window-resampling/data/example-time-series-windowing.png)
+![Python Magic Adventure Logo](https://github.com/Marlup/Time-series-window-resampling/blob/main/data/example-time-series-windowing.png)
 
 Welcome to the Time Series Windowing module! 🕰✨
 
